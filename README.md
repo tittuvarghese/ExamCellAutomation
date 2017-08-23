@@ -19,3 +19,11 @@ Run Web Application
 
 #### Accepted File Formats
 CSV
+
+#### Resources
+```
+data.csv contains CSV format for the import file.
+```
+```
+Admin username and password admin,admin
+```
